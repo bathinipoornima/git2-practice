@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1654399898,,"wq!"
+|2,0,1654400767,,"wq!"
 
 # Search String History (newest to oldest):
 
@@ -28,16 +28,30 @@
 |3,1,36,0,1,0,1654392934,"l"
 
 # File marks:
-'0  2  23  ~/myfile
-|4,48,2,23,1654399898,"~/myfile"
-'1  1  9  /etc/hostname
-|4,49,1,9,1654392952,"/etc/hostname"
+'0  5  0  ~/myfile
+|4,48,5,0,1654400767,"~/myfile"
+'1  2  23  ~/myfile
+|4,49,2,23,1654399898,"~/myfile"
+'2  2  23  ~/myfile
+|4,50,2,23,1654399898,"~/myfile"
+'3  1  9  /etc/hostname
+|4,51,1,9,1654392952,"/etc/hostname"
 
 # Jumplist (newest first):
+-'  5  0  ~/myfile
+|4,39,5,0,1654400767,"~/myfile"
+-'  2  23  ~/myfile
+|4,39,2,23,1654400738,"~/myfile"
 -'  2  23  ~/myfile
 |4,39,2,23,1654399898,"~/myfile"
 -'  1  0  ~/myfile
 |4,39,1,0,1654399867,"~/myfile"
+-'  1  0  ~/myfile
+|4,39,1,0,1654399867,"~/myfile"
+-'  1  9  /etc/hostname
+|4,39,1,9,1654392952,"/etc/hostname"
+-'  1  9  /etc/hostname
+|4,39,1,9,1654392952,"/etc/hostname"
 -'  1  9  /etc/hostname
 |4,39,1,9,1654392952,"/etc/hostname"
 -'  1  9  /etc/hostname
@@ -46,11 +60,12 @@
 # History of marks within files (newest to oldest):
 
 > ~/myfile
-	*	1654399894	0
-	"	2	23
-	^	2	24
-	.	2	23
+	*	1654400760	0
+	"	5	0
+	^	5	0
+	.	4	24
 	+	2	23
+	+	4	24
 
 > /etc/hostname
 	*	1654392946	0
